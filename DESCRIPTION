@@ -1,9 +1,9 @@
 Package: EntropyTest
 Title: Testes de bondade de ajuste baseado em entropia.
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: person("Alan", "Silva", email = "alan.silva.6991@gmail.com", role = c("aut", "cre"))
 Description: Testes de bondade de ajuste para distribuições de vida, para dados censurados do tipo II e dados não-censurados.
-Depends: VGAM, maxLik, R (>= 3.5.1)
+Depends: VGAM, maxLik, R (>= 3.5.0)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

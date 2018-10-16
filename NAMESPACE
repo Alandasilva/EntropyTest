@@ -3,6 +3,8 @@
 export(HVEmn)
 export(HVmn)
 export(estimabs)
+export(estimaexp)
+export(testvasicek)
 export(vasicekcrit)
 import(VGAM)
 importFrom(maxLik,maxLik)
